@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pardis 👋
 
-<!--
-**Pardis-Amin/Pardis-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Informatik-Ingenieurwesen (IIW)** student at **Hamburg University of Technology (TUHH)**,
+interested in programming, numerical methods and solving real-world problems with code.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- Python for scientific computing (NumPy, SciPy, Matplotlib)
+- Numerical Mathematics: linear systems, interpolation, nonlinear equations, quadrature
+- C programming – procedural programming course at TUHH (just started: gcc, Makefiles, basics)
+- Git & GitLab for team projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- Python · C · NumPy · Jupyter Notebook · Git · GitLab
+
+## 📂 What you'll find here
+Clean, documented implementations of numerical algorithms
+(e.g. LU decomposition, Newton's method, interpolation, numerical integration)
+– more coming soon!
+
+## 📫 Contact
+pardis.amin@outlook.de
